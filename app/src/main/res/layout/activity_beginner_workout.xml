@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    tools:context=".BeginnerWorkoutActivity">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/squats"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="SQUATS"
+                android:textColor="@color/black"
+                android:layout_marginTop="80dp"
+                android:textSize="30sp"
+                android:onClick="ImageButtonClicked"
+                />
+            <Button
+                android:id="@+id/pushups"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="PUSH-UPS"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:textSize="30sp"
+                android:onClick="ImageButtonClicked"
+                />
+            <Button
+                android:id="@+id/situps"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="SIT-UPS"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:textSize="30sp"
+                android:onClick="ImageButtonClicked"
+                />
+            <Button
+                android:id="@+id/forwardlunges"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="FORWARD LUNGES"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:textSize="30sp"
+                android:onClick="ImageButtonClicked"
+                />
+            <Button
+                android:id="@+id/bicepcurls"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="BICEP CURLS"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:textSize="30sp"
+                android:onClick="ImageButtonClicked"
+                />
+            <Button
+                android:id="@+id/laterallunges"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="LATERAL LUNGES"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:textSize="30sp"
+                android:onClick="ImageButtonClicked"
+                />
+            <Button
+                android:id="@+id/tricepdips"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="TRICEP DIPS"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:textSize="30sp"
+                android:onClick="ImageButtonClicked"
+                />
+            <Button
+                android:id="@+id/reverselunges"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="REVERSE LUNGES"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:textSize="30sp"
+                android:onClick="ImageButtonClicked"
+                />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    tools:context=".BeginnerWorkoutActivity">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp">
+
+            <Button
+                android:id="@+id/kingpigeonpose"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="80dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="KING PIGEON POSE"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/dovepose"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="DOVE POSE"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/peacockpose"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="PEACOCK POSE"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/lordofthedance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="LORD OF THE DANCE"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/headstand"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="HEADSTAND"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/headstandlotus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="HEADSTAND LOTUS"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/firefly"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="FIREFLY"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/corpsepose"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="CORPSE POSE"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

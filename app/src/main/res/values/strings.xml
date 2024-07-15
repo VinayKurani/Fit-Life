@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">fitnessapp</string>
+
+    <string name="repeat">
+        Do Two Sets Of Each Exercise
+    </string>
+
+    <string name="squats">Stand straight with feet hip-width apart.Tighten your stomach muscles.
+Lower down, as if sitting in an invisible chair.
+Straighten your legs to lift back up.
+Repeat the movement.Do 10 reps of exercise and repeat the circuit three times</string>
+
+    <string name="pushups">Get down on all fours, placing your hands slightly wider than your shoulders.
+Straighten your arms and legs.
+Lower your body until your chest nearly touches the floor.
+Pause, then push yourself back up.
+Repeat.Do 10 reps of exercise and repeat the circuit three times</string>
+
+    <string name="situps">Lie down on your back.
+Bend your legs and place feet firmly on the ground to stabilize your lower body.
+Cross your hands to opposite shoulders or place them behind your ears, without pulling on your neck.
+Curl your upper body all the way up toward your knees. Exhale as you lift.
+Slowly, lower yourself down, returning to your starting point. Inhale as you lower.Do 10 reps of exercise and repeat the circuit three times</string>
+
+    <string name="forwardlunges">Stand tall with feet hip-width apart. Engage your core.
+Take a big step forward with right leg.
+Lower your body until right thigh is parallel to the floor and right shin is vertical.
+Press into right heel to drive back up to starting position.
+Repeat on the other side.Do 20 reps (10 each side) of exercise and repeat the circuit three times</string>
+
+    <string name="bicepcurls">Start standing with a dumbbell in each hand. Your elbows should rest at your sides and your forearms should extend out in front of your body.
+Bring the dumbbells all the way up to your shoulders by bending your elbows. Once at the top, hold for a second by squeezing the muscle.
+Reverse the curl slowly and repeat.Do 10 reps of exercise and repeat the circuit three times</string>
+
+    <string name="laterallunges">Start standing tall, feet hip-width distance apart.
+Take a wide step out to the left. Bend your left knee as you push your hips back.
+Push off with your left leg to return to standing.
+Perform 10 lunges on the left side before switching to the right.Do 20 reps (10 each side) of  exercise and repeat the circuit three times</string>
+
+    <string name="tricepdips">Place your heels on the edge of the other chair and hold yourself up using your triceps.
+        Slide forward just far enough that your behind clears the edge of the chair, then lower yourself until your elbows are bent between 45 and 90 degrees.
+        Slowly push yourself back up to the start position and repeat.
+        Do 10 reps of exercise and repeat the circuit three times</string>
+
+    <string name="reverselunges">Stand upright, with your hands at your hips.
+        Take a large step backward with your left foot.
+        Lower your hips so that your right thigh (front leg) becomes parallel to the floor with your right knee positioned directly over your ankle. Your left knee should be bent at a 90-degree angle and pointing toward the floor with your left heel lifted.
+        Return to standing by pressing your right heel into the floor and bringing your left leg forward to complete one rep.
+        Alternate legs, and step back with right leg.
+        Do 20 reps (10 each side) of exercise and repeat the circuit three times</string>
+
+    <string name="squatjumps">Stand tall with your feet hip-width apart.
+        Hinge at the hips to push your butt back and lower down until your thighs are parallel to the floor.
+        Allow your knees to bend 45 degrees when you land, and then immediately drop back down into a squat, and jump again.
+        Do 20 reps of exercise and repeat the circuit three times</string>
+
+    <string name="declinepushups">Kneel down with your back to the bench. Put your hands on the floor, shoulders over your wrists and elbows at 45 degrees.
+        Brace your core, glutes, and quads.
+        Push into the floor to return to starting position, extending your elbows.
+        Do 20 reps of exercise and repeat the circuit three times</string>
+
+    <string name="russiantwists">Sit with bent knees and your feet pressing firmly into the floor, holding a dumbbell in each hand next to your chest.
+        Sit back slightly, keeping your spine straight.
+        Exhale as you twist to the left, punching your right arm over to the left side.
+        Inhale back to center, and then do the opposite side
+        Do 20 reps of exercise and repeat the circuit three times</string>
+
+    <string name="lungejumps">Starting standing with feet shoulder-width apart.
+        Jump your left leg forward and your right leg back into a lunge, with both knees at 90 degrees.
+        Jump up and switch your legs in midair so that you land in a lunge with your right leg in front.
+        Continue jumping back and forth, pausing as little as possible
+        Do 20 reps of exercise and repeat the circuit three times</string>
+
+    <string name="curtsylunges">Stand with your feet hip-distance apart and let your arms fall at your sides.
+        Draw a semicircle with your right foot, moving it clockwise until it crosses behind your left foot.
+        Lunge down as deeply as possible, hovering your knee a couple of inches off the floor.
+        Slowly return to the standing curtsy position.
+        Do 20 reps of exercise and repeat the circuit three times</string>
+
+    <string name="squatwithoverheadpress">Grip one dumbbell in each hand with the palm facing each other and hold them in front of each shoulder with the elbows close to the body.
+        Push back into the hips and keep the back straight to lower into a squat holding the weights on the front of the shoulders.
+        Do 20 reps of exercise and repeat the circuit three times</string>
+
+    <string name="oneleggedsquats">Stand on one leg with your foot pointing straight ahead and the knee of the other leg slightly bent.
+        Raise the non-supporting foot from the floor slightly.
+        Lower to a squat position, keeping the knee of the supporting leg centered over the ball of the foot.
+        Do 30 reps (15 each side) of exercise and repeat the circuit three times</string>
+
+    <string name="plank">Assume a push-up position but bend your arms at your elbows so your weight rests on your forearms.
+Tighten your abs, clench your glutes and keep your body straight from head to heels.
+Hold as long as you can.</string>
+
+    <string name="childspose">Get on all fours on your mat.
+Spread your knees wide and position your big toes so that they’re touching.
+Let your stomach fall between your thighs and allow your forehead to drop toward the floor.
+Extend your arms in front of your body with your palms on the floor.
+Breathe deeply in and out here.</string>
+
+    <string name="happybaby">Lie on your back on your mat.
+Bend your knees and bring them to your stomach, gripping the outsides of your feet. Flex your heels and ankles.
+Breathe here, focusing on keeping your ankles directly above your knees while pushing against your hands with your feet.</string>
+
+    <string name="catcow">Get on all fours on your mat with yours hands under yours shoulders and knees under your hips.
+Engage your abs, exhale, and push your spine up toward the ceiling.
+Allow your head to fall toward your chest. Hold here for 10 seconds.
+Inhale and let your spine fall back down, allowing your stomach to fall toward the ground while your head comes up and back. Hold here for 10 seconds.</string>
+
+    <string name="cobrapose">Lie on your mat on your stomach with your legs shoulder-width apart and the tops of your feet on the mat.
+Place your hands underneath your shoulders with your elbows tucked into your body.
+Inhale and begin to straighten your arms, pushing through the tops of your feet.
+Lift your chest off the floor and push your shoulders back.
+Stop straightening your arms as soon as your pelvis loses contact with the ground — breathe in and out here for up to 30 seconds.</string>
+
+    <string name="chairpose">Stand with your feet together and inhale, extending your arms directly overhead.
+Exhale, begin to sit back into your hips, and bend your knees. Stop when your thighs are parallel to the ground.
+Roll your shoulders down and back and press your tailbone toward the ground. Breathe here.</string>
+
+    <string name="caterpillarpose">From a seated position, legs outstretched in front of you, fold forward from the hips, allowing your spine to round.
+        Relax your legs and allow your feet to naturally fall outwards or inwards.
+        You are looking for sensations along the spine and/or in the hamstrings.</string>
+
+    <string name="downwarddog">Begin on your hands and knees.
+Stretch your elbows and relax your upper back.
+Spread your fingers wide and press firmly through your palms and knuckles.
+Exhale as you tuck your toes and lift your knees off the floor.
+Press the floor away from you as you lift through your pelvis.</string>
+
+    <string name="corpsepose">Lie on your back with your legs straight and arms at your sides.
+Let your breath occur naturally.
+Allow your body to feel heavy on the ground.
+Working from the soles of your feet up to the crown of your head, consciously release every body part, organ, and cell.
+Relax your face.</string>
+
+    <string name="warrior1">Begin standing, then step your right foot forward about four feet.
+        With your foot parallel and toes pointing to the top of the mat, bend your knee into a lunge.
+        Squeeze your shoulder blades together and downward, and lift your chin to gaze at your hands overhead.
+        Hold your pose and then repeat on the left side.</string>
+
+    <string name="bridgepose">Lie on your back with your knees bent and feet flat on the ground.
+Place your arms at your sides with your palms on the ground.
+Inhale. Exhale and push up through your feet, pushing your hips up toward the sky.</string>
+
+    <string name="garlandpose">Keep your spine straight, your butt moving toward the floor, and your shoulders relaxed away from your ears.
+        Stay here for five breaths, then straighten the legs to come out.
+        You can come directly into a Forward Fold if you like</string>
+
+    <string name="bowpose">Begin by lying on your belly with your arms in a cactus position on the floor.
+While maintaining the lift in your chest and legs, bend your knees and bring your heels toward your head until your toes are vertical above your ankles.</string>
+
+    <string name="boatpose">Begin seated with your knees bent and feet flat on the floor, hands resting beside your hips.
+Keeping your spine straight, lean back slightly and lift your feet, bringing your shins parallel to the floor.
+Draw in your low back, lift your chest, and lengthen the front of your torso.</string>
+
+    <string name="kingpigeonpose">Assume Pigeon Pose with your left knee bent in front of you and your right leg extended behind you.
+Bend your right knee and bring your foot up toward your back.
+Arch your back and drop your head down.
+Reach your hands over your head and grab hold of your foot with both hands.</string>
+    
+    <string name="dovepose">Kneel on the floor with your arms down at your sides.
+With your fingers facing forward, lean back onto your hands with your arms straight.
+Lower down onto your forearms.
+Begin to push your thighs up and out, arching your back, dropping your head, and moving your hands as close to your feet as possible.</string>
+
+    <string name="peacockpose">Kneel on the floor with your knees wide and sit on your heels.
+Lean forward and place your palms on the floor with your fingers facing back toward your body.
+Bend your elbows and slide your knees to the outside of your arms.
+Lean your torso onto your upper arms and lower your head.
+Straighten your knees and extend your legs behind you, starting first with the tops of your feet on the floor.
+When you feel stable here, shift your weight forward and lift your legs off the ground.</string>
+
+    <string name="lordofthedance">Stand with your feet together and arms down at your sides.
+Bend your left knee, bringing your foot to your butt.
+Grab the outside of your foot with your left hand, pushing your tailbone down and your pelvis up toward your belly button.
+Allow your knee to extend slightly as it moves up toward the ceiling.
+Extend your right arm in front of you parallel to the floor.</string>
+
+    <string name="headstand">Get onto all fours with your wrists under your shoulders and your knees under your hips.
+Bring your forearms to the floor, clasping your hands and placing the top of your head on the floor right in front of your hands.
+Straighten your legs and walk them into the Downward Dog position. Aim to get your hips as close as possible to shoulder level.
+Inhale and lift one leg up toward the ceiling, then follow with the other.</string>
+
+    <string name="headstandlotus">Assume a Headstand position.
+Interlock your legs by bending your right leg and placing it on your left thigh.
+Follow by bending your left leg and placing it on your right thigh.</string>
+
+    <string name="firefly">Squat down and lean your torso forward between your legs.
+Place your hands on the floor inside your legs.
+Bring your upper arms as close to your upper thigh as possible.
+Begin to lift yourself off the floor and push your weight into your hands.
+Shift your center of gravity back, allowing your legs to straighten in front of you.</string>
+
+
+
+</resources>

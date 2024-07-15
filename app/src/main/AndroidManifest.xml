@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vinay.fitnessapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Fitnessapp">
+        <activity android:name=".AdvancedYogaScreenActivity"></activity>
+        <activity android:name=".IntermediateYogaScreenActivity" />
+        <activity android:name=".BeginnerYogaScreenActivity" />
+        <activity android:name=".AdvancedWorkoutScreenActivity" />
+        <activity android:name=".IntermediateWorkoutScreenActivity" />
+        <activity android:name=".WeightGainActivity" />
+        <activity android:name=".WeightLossActivity" />
+        <activity android:name=".BeginnerWorkoutScreenActivity" />
+        <activity android:name=".BeginnerWorkoutActivity" />
+        <activity android:name=".CalorieCalculatorActivity" />
+        <activity android:name=".CalorieChartActivity" />
+        <activity android:name=".AdvancedWorkoutActivity" />
+        <activity android:name=".IntermediateWorkoutActivity" />
+        <activity android:name=".AdvancedYogaActivity" />
+        <activity android:name=".IntermediateYogaActivity" />
+        <activity android:name=".BeginnerYogaActivity" />
+        <activity android:name=".WorkoutActivity" />
+        <activity android:name=".WeightManagementActivity" />
+        <activity android:name=".CalorieCounterActivity" />
+        <activity android:name=".YogaActivity" />
+        <activity android:name=".SecondActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

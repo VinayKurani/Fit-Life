@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    tools:context=".BeginnerWorkoutActivity">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp">
+
+            <Button
+                android:id="@+id/catcow"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="70dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="CAT-COW"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/downwarddog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="DOWNWARD DOG"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/warrior1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="WARRIOR 1"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/bridgepose"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="BRIDGE POSE"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/garlandpose"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="GARLAND POSE"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/bowpose"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="BOW POSE"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/boatpose"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="BOAT POSE"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/corpsepose"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:onClick="ImageButtonClicked"
+                android:text="CORPSE POSE"
+                android:textColor="@color/black"
+                android:textSize="30sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

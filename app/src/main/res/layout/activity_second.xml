@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background2"
+    tools:context=".SecondActivity">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/yoga"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="YOGA"
+                android:textColor="@color/black"
+                android:layout_marginTop="200dp"
+                android:textSize="30sp"
+                />
+
+            <Button
+                android:id="@+id/workout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="WORKOUT"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:textSize="30sp"
+                />
+
+            <Button
+                android:id="@+id/caloriecounter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="COUNT CALORIES"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:textSize="30sp"
+                />
+
+            <Button
+                android:id="@+id/weightmanagement"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/custombutton"
+                android:fontFamily="@font/alfa_slab_one"
+                android:text="MAINTAIN WEIGHT"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:textSize="30sp"
+                />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
